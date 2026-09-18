@@ -1,0 +1,8 @@
+```text
+venv/
+.env
+__pycache__/
+*.pyc
+
+faiss_index/
+```
