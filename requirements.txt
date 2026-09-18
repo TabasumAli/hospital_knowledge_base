@@ -8,3 +8,4 @@ pypdf
 python-dotenv
 streamlit
 langchain.text_splitters
+torchvision
